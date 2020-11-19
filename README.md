@@ -1,6 +1,7 @@
 # AnchorHash: A Scalable Consistent Hash
 
-This repository contains supplementary code for the paper  "AnchorHash: A Scalable Consistent Hash" (add link here)
+This repository contains a Go implemenetation of AnchorHash based on the paper [AnchorHash: A Scalable Consistent Hash](https://arxiv.org/abs/1812.09674).
+
 
 ## Getting Started
 
